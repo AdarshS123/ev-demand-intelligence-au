@@ -38,8 +38,9 @@ FastAPI Prediction Service
         ↓
 Streamlit Interactive Dashboard
 
-This demonstrates full-stack data capability:
-Data Engineering → Analytics → ML → Deployment → Visualization.
+This demonstrates full-stack capability:
+
+Data Engineering → Analytics → ML → Deployment → Visualization
 
 📊 Key Infrastructure Insights
 
@@ -59,7 +60,7 @@ Standardized inconsistent state naming across datasets
 
 A baseline regression model was implemented to simulate EV charging demand trends across the year.
 
-The objective was to demonstrate:
+This demonstrates:
 
 Time-based modeling
 
@@ -70,7 +71,6 @@ Deployment via REST API
 Real-time inference integration with dashboard
 
 🛠️ Tech Stack
-
 Languages & Tools
 
 Python
@@ -120,16 +120,25 @@ Dashboard runs at:
 http://localhost:8501
 🎯 What This Project Demonstrates
 
-✔ API data ingestion
-✔ ETL pipeline design
-✔ Data standardization
-✔ Database schema design
-✔ KPI computation
-✔ Forecasting model implementation
-✔ Model evaluation
-✔ REST API deployment
-✔ Frontend integration
-✔ Production-style multi-layer architecture
+API data ingestion
+
+ETL pipeline design
+
+Data standardization
+
+Database schema design
+
+KPI computation
+
+Forecasting model implementation
+
+Model evaluation
+
+REST API deployment
+
+Frontend integration
+
+Production-style multi-layer architecture
 
 📈 Why This Project Matters
 
