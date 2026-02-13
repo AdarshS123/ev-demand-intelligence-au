@@ -22,21 +22,31 @@ Visualizes insights through an interactive dashboard
 The goal was not just to build a model — but to design a production-style analytics pipeline from raw data to deployed system.
 
 🏗️ System Architecture
+
+
 Open Charge Map API
+
         ↓
 Data Ingestion (Python)
+
         ↓
 ETL & Standardization
+
         ↓
 PostgreSQL Database
+
         ↓
 Analytics & KPI Queries
+
         ↓
 ML Demand Model (Regression)
+
         ↓
 FastAPI Prediction Service
+
         ↓
 Streamlit Interactive Dashboard
+
 
 This demonstrates full-stack capability:
 
